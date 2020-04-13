@@ -10,7 +10,10 @@ Triangulation de Delaunay
 -Ouvrir et lancer "" avec Processing 3
 
 ## Utilisation :
+
 Clic gauche : Distribution aléatoire
+
 Clic droit : ajoute un point sur la position de la souris
+
 Molette : Change la méthode d'affichage
 
