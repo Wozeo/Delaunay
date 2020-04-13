@@ -9,7 +9,7 @@ Triangulation de Delaunay
 
 -Télécharger Processing 3 : https://processing.org/download/
 
--Ouvrir et lancer "" avec Processing 3
+-Ouvrir et lancer "delaunay/delaunay.pde" avec Processing 3
 
 ## Utilisation :
 
