@@ -6,7 +6,9 @@ Triangulation de Delaunay
 ![Exemple3](Delaunay-1.png)
 
 ## Comment l'ouvrir et le lancer :
+
 -Télécharger Processing 3 : https://processing.org/download/
+
 -Ouvrir et lancer "" avec Processing 3
 
 ## Utilisation :
