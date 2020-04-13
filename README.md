@@ -8,7 +8,7 @@ Triangulation de Delaunay
 -Télécharger Processing 3 : https://processing.org/download/
 -Ouvrir et lancer "" avec Processing 3
 
-##Utilisation :
+## Utilisation :
 Clic gauche : Distribution aléatoire
 Clic droit : ajoute un point sur la position de la souris
 Molette : Chnage la méthode d'affichage
